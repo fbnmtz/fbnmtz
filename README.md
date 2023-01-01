@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @fbnmtz
+- 👋 Hi, I’m Fabiano Matos
 - 👀 I have interest in linux, bash, ruby, js and more fun things
 - 🌱 I’m currently working, learning, and searching for a new job
 - 💞️ I’m looking to collaborate on open projects
-- 📫 Reach me @fbnmtz 
+- 📫 Reach me on @fbnmtz 
 
 <!---
 fbnmtz/fbnmtz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
