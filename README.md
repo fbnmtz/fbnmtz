@@ -2,7 +2,7 @@
 - 👀 I have interest in linux, bash, ruby, php, js and more fun things
 - 🌱 I’m currently working on Brazilian Federal Governament.
 - 💞️ I’m looking to collaborate on open source projects, learning new things and searching for a new job as developer
-- 📫 Reach me on @fbnmtz
+- 📫 Reach me on @fbnmtz (fabiano.matoz@gmail.com)
 
 <!---
 fbnmtz/fbnmtz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
