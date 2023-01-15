@@ -12,3 +12,9 @@ You can click the Preview link to take a look at your changes.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fbnmtz&show_icons=true&theme=great-gatsby" alt="fbnmtz" />
 
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=fbnmtz.fbnmtz" />
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbnmtz&layout=compact)](https://github.com/fbnmtz/github-readme-stats)
+
+
+[![fbnmtz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fbnmtz)](https://github.com/fbnmtz/github-readme-stats)
