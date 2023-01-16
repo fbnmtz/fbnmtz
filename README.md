@@ -7,6 +7,8 @@
 ## Other projects
 * https://hub.docker.com/u/m88v2
 * https://github.com/m88v2
+* http://academico.ifnmg.edu.br/
+* https://cajui.ifnmg.edu.br/cajui/login
 
 <!---
 fbnmtz/fbnmtz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
