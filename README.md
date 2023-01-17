@@ -1,10 +1,66 @@
-# 👋 About me
-- 👀 I have interest in linux, bash, ruby, php, js and more fun things
+<div align="center" >
+ 
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=yellow)
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=80&pause=1000&color=F1C232&vCenter=true&width=600&height=70&lines=Fabiano+Matos;Programmer,+DevOps;Linux+enthusiast;Reach+me+on+@fbnmtz)](https://git.io/typing-svg)
+
+![waving](https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=yellow)
+ 
+ </div>
+<br>
+
+<h1>👋 About me</h1>
+
+<br>
+
+### :man_technologist: Hello, I'm Fabiano Matos, addicted to programming since 2005. I started working as a computer technician, became a programmer, CTO in a Brazilian government company for two years, systems administrator, datacenter manager and much more.
+
+
+---
+Currently moving from my current job to a full time developer. I am very interested in the DevOps area as well and I am looking for collaboration opportunities and new projects. Feel free to get in touch.
+
+---
+<br>
+<h2>Social Networks</h2>
+
+<!-- [![Twitter][1.2]][1]  -->
+[![LinkedIn][2.2]][2] 
+<!-- [![Instagram][3.2]][3]  -->
+<!-- [![Mail][5.2]][5] -->
+<!-- [![Telegram][4.2]][4] -->
+
+[1.2]: https://s4.uupload.ir/files/twitter_prkb.png
+[2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
+[3.2]: https://s4.uupload.ir/files/instagram_6djz.png
+[4.2]: https://s4.uupload.ir/files/telegram_q47u.png
+[5.2]: https://www.flaticon.com/free-icon/email_834348
+
+[1]: https://twitter.com/fbnmtz
+[2]: https://www.linkedin.com/in/fbnmtz/
+[3]: https://www.instagram.com/fbnmtz
+[4]: https://telegram.me/fbnmtz
+[5]: fabiano.matoz@gmail.com
+
+<!-- - 👀 I have interest in linux, bash, ruby, php, js and more fun things
 - 🌱 I’m currently working on Brazilian Federal Governament.
 - 💞️ I’m looking to collaborate on open source projects, learning new things and searching for a new job as developer
-- 📫 Reach me on @fbnmtz (fabiano.matoz@gmail.com)
+- 📫 Reach me on @fbnmtz (fabiano.matoz@gmail.com) -->
 
-# 💻 Tech Stack:
+
+<!-- <h2>Skills</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,androidstudio,arduino,bash,linux" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,c,cpp,java,github,wordpress,ae,ps,pr" />
+  </a>
+</p> -->
+
+<h2>💻 Tech Stack:</h2>
 ![windows](https://img.shields.io/badge/Windows-%230A0FFF.svg?style=flat&logo=windows) 
 ![macos](https://img.shields.io/badge/MacOs-%231A1918.svg?style=flat&logo=macos)
 ![linux](https://img.shields.io/badge/Linux-%231A1918.svg?style=flat&logo=linux)
@@ -12,6 +68,8 @@
 ![archlinux](https://img.shields.io/badge/archlinux-%231A1918.svg?style=flat&logo=archlinux)
 ![manjaro](https://img.shields.io/badge/manjaro-%231A1918.svg?style=flat&logo=manjaro)
 ![pfsense](https://img.shields.io/badge/pfsense-%231A1918.svg?style=flat&logo=pfsense)
+
+
 
 
 ---
@@ -90,12 +148,27 @@ You can click the Preview link to take a look at your changes.
     <img src="https://visitor-badge.glitch.me/badge?page_id=fbnmtz.fbnmtz" />
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fbnmtz&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+<h2>📊 GitHub Stats:</h2>
+
+<details close="true">
+  <summary><b>:gear: &nbsp;Git statistics</b></summary>
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=fbnmtz&show_icons=true&theme=dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fbnmtz&theme=dark&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbnmtz&hide=html&layout=compact&theme=dark" />
+    <details close="true">
+      <summary><b>:gear: &nbsp;Wakatime</b></summary>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fbnmtz&theme=dark" />
+    </details>
+  </div>
+</details>
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=fbnmtz&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fbnmtz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fbnmtz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=fbnmtz&theme=dark)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=fbnmtz&theme=dark) -->
 
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
