@@ -17,7 +17,7 @@
 
 
 ---
-Currently moving from my current job to a full time developer. I am very interested to work with DevOps as well and I am looking for collaboration opportunities and new projects. Feel free to get in touch.
+Currently moving from my current job to a full time developer. I am very interested to work with DevOps as well and looking for collaboration opportunities and new projects. Feel free to get in touch.
 
 ---
 <br>
