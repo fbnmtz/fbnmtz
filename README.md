@@ -26,8 +26,8 @@ Currently moving from my current job to a full time developer. I am very interes
 <!-- [![Twitter][1.2]][1]  -->
 [![LinkedIn][2.2]][2] 
 <!-- [![Instagram][3.2]][3]  -->
-<!-- [![Mail][5.2]][5] -->
 <!-- [![Telegram][4.2]][4] -->
+<!-- [![Mail][5.2]][5] -->
 
 [1.2]: https://s4.uupload.ir/files/twitter_prkb.png
 [2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
@@ -61,6 +61,7 @@ Currently moving from my current job to a full time developer. I am very interes
 </p> -->
 
 <h2>💻 Tech Stack:</h2>
+
 ![windows](https://img.shields.io/badge/Windows-%230A0FFF.svg?style=flat&logo=windows) 
 ![macos](https://img.shields.io/badge/MacOs-%231A1918.svg?style=flat&logo=macos)
 ![linux](https://img.shields.io/badge/Linux-%231A1918.svg?style=flat&logo=linux)
