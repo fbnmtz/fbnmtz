@@ -13,7 +13,7 @@
 
 <br>
 
-### :man_technologist: Hello, I'm Fabiano Matos, addicted to programming since 2005. I started working as a computer technician, became a programmer, CTO in a Brazilian government company for two years, systems administrator, datacenter manager and much more.
+### :man_technologist: Hello, I'm Fabiano Matos, addicted to programming since 2005. I started working as a computer technician and as a programmer. We started a business and created our first software to control the sales and inventory of a clothing store. In 2008 I started working for the Federal Government Brazilian and became CTO for two years in my local unit. In 2011 I was transferred to the central unit where I joined the team of programmers for institutional systems. In all this time I was also a teacher, systems administrator, datacenter manager and much more.
 
 
 ---
