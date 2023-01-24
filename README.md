@@ -24,7 +24,7 @@ Currently moving from my current job to a full time developer. I am very interes
 <h2>Social Networks</h2> -->
 
 <!-- [![Twitter][1.2]][1]  -->
-[![LinkedIn][2.2]][2] 
+<!-- [![LinkedIn][2.2]][2]  -->
 <!-- [![Instagram][3.2]][3]  -->
 <!-- [![Telegram][4.2]][4] -->
 <!-- [![Mail][5.2]][5] -->
