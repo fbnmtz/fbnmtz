@@ -2,7 +2,7 @@
  
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=yellow)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=80&pause=1000&color=F1C232&vCenter=true&width=600&height=70&lines=Fabiano+Matos;Programmer,+DevOps;Linux+enthusiast;Reach+me+on+@fbnmtz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=90&pause=1500&color=F1C232&vCenter=true&hCenter=true&width=500&height=90&lines=Fabiano+Matos;Programmer,+DevOps;Linux+enthusiast;Reach+me+on+@fbnmtz)](https://git.io/typing-svg)
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=yellow)
  
@@ -20,8 +20,8 @@
 Currently moving from my current job to a full time developer. I am very interested to work with DevOps as well and looking for collaboration opportunities and new projects. Feel free to get in touch.
 
 ---
-<br>
-<h2>Social Networks</h2>
+<!-- <br>
+<h2>Social Networks</h2> -->
 
 <!-- [![Twitter][1.2]][1]  -->
 [![LinkedIn][2.2]][2] 
