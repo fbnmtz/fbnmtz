@@ -4,7 +4,7 @@
  
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=yellow)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=90&pause=1500&color=F1C232&vCenter=true&hCenter=true&width=500&height=90&lines=Fabiano+Matos;Programmer,+DevOps;Linux+enthusiast;Reach+me+on+@fbnmtz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=90&pause=1500&color=F1C232&vCenter=true&hCenter=true&width=600&height=95&lines=Fabiano+Matos;Programmer;DevOps;Linux+enthusiast;Reach+me+on:;@fbnmtz)](https://git.io/typing-svg)
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=yellow)
  
