@@ -15,11 +15,10 @@
 
 <br>
 
-:man_technologist: Hello, I'm Fabiano Matos, addicted to programming since 2005. I started working as a computer technician and as a programmer. We started a business and created our first software to control the sales and inventory of a clothing store. In 2008 I started working for the Brazilian Federal Government and became CTO for two years in my local unit. In 2011 I was transferred to the central unit where I joined the team of programmers for institutional systems. In all this time I was also a teacher, systems administrator, datacenter manager and much more.
-
+:man_technologist: Hello, I'm Fabiano Matos, addicted to programming since 2005. I started working as a computer technician and as a programmer. We started a business and created our first software to control sales and inventory in a clothing store. In 2008 I started working for the Brazilian Federal Government and became CTO for two years in my local unit. In 2011 I was transferred to the central unit where I joined the team of programmers for institutional systems. In all that time I've also been a teacher, systems administrator, datacenter manager and much more.
 
 ---
-Currently moving from my current job to a full time developer. I am very interested to work with DevOps as well and looking for collaboration opportunities and new projects. Feel free to get in touch.
+Now, I'm switching from my current job to being a full-time developer. I am very interested in working with development in BackEnd, FrontEnd, DevOps as well and looking for collaboration opportunities and new projects. Feel free to get in touch.
 
 ---
 <!-- <br>
