@@ -11,7 +11,13 @@
  </div>
 <br>
 
-<h1>👋 About me</h1>
+<div>
+  <h1>👋 About me</h1>
+
+  <div style="float: right">
+    <img src="./src/Night-Coding.gif">
+  </div>
+</div>
 
 <br>
 
