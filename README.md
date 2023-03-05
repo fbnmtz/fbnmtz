@@ -30,6 +30,7 @@ Now, I'm switching from my current job to being a full-time developer. I am very
 <!-- <br>
 <h2>Social Networks</h2> -->
 
+
 <!-- [![Twitter][1.2]][1]  -->
 <!-- [![LinkedIn][2.2]][2]  -->
 <!-- [![Instagram][3.2]][3]  -->
