@@ -14,9 +14,9 @@
 <div>
   <h1>👋 About me</h1>
 
-  <div style="float: right">
+  <!-- <div style="float: right">
     <img src="./src/Night-Coding.gif">
-  </div>
+  </div> -->
 </div>
 
 <br>
