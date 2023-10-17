@@ -1,18 +1,19 @@
-<div align="center" >
-
  <!-- ![](https://github.com/fbnmtz/fbnmtz/blob/output/github-contribution-grid-snake2.svg)  -->
  
+<!-- <div align="center" >
+
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=yellow)
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=90&pause=1500&color=F1C232&vCenter=true&hCenter=true&width=600&height=95&lines=Fabiano+Matos;Programmer;DevOps;Linux+enthusiast;Reach+me+on:;@fbnmtz)](https://git.io/typing-svg)
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=yellow)
  
- </div>
+ </div> -->
+
 <br>
 
 <div>
-  <h1>👋 About me</h1>
+  <h1>👋 Let's do this</h1>
 
   <!-- <div style="float: right">
     <img src="./src/Night-Coding.gif">
@@ -21,12 +22,12 @@
 
 <br>
 
-:man_technologist: Hello, I'm Fabiano Matos, addicted to programming since 2005. I started working as a computer technician and as a programmer. We started a business and created our first software to control sales and inventory in a clothing store. In 2008 I started working for the Brazilian Federal Government and became CTO for two years in my local unit. In 2011 I was transferred to the central unit where I joined the team of programmers for institutional systems. In all that time I've also been a teacher, systems administrator, datacenter manager and much more.
+<!-- :man_technologist: Hello, I'm Fabiano Matos, addicted to programming since 2005. I started working as a computer technician and as a programmer. We started a business and created our first software to control sales and inventory in a clothing store. In 2008 I started working for the Brazilian Federal Government and became CTO for two years in my local unit. In 2011 I was transferred to the central unit where I joined the team of programmers for institutional systems. In all that time I've also been a teacher, systems administrator, datacenter manager and much more.
 
 ---
 Now, I'm switching from my current job to being a full-time developer. I am very interested in working with development in BackEnd, FrontEnd, DevOps and looking for collaboration opportunities and new projects. Feel free to get in touch.
 
----
+--- -->
 <!-- <br>
 <h2>Social Networks</h2> -->
 
